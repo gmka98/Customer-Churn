@@ -1,23 +1,29 @@
 # 📊 Power BI Case Study – Customer Churn Analysis
 
-## 📌 Description
+## 🧠 Context
 
-Are you ready to apply your Power BI skills to a real-world dataset?
+Subscription-based businesses like telecom companies rely on customer retention for long-term profitability. High churn rates directly impact revenue and growth potential. Understanding **why** customers are churning is more valuable than just knowing **how many** are leaving. Databel, a fictional telecom company, needs clear insights into its customer churn patterns to take effective action.
 
-In this Power BI case study, we explore churn behavior for a subscription-based telecom company called **Databel**. Reducing customer churn is critical for sustainable business growth, and this project focuses on identifying why customers leave — not just how many.
+## ✅ Solution
 
-By analyzing the churn data, we aim to answer the following:
+This case study uses **Power BI** to:
 
-- What is the current churn rate?
-- Which customer segments are most likely to churn?
-- What factors are driving customer churn?
-- How can we reduce churn through actionable insights?
+- Import and model customer churn data using **Power Query Editor**
+- Create meaningful **DAX measures** and **calculated columns** to analyze behavior and risk factors
+- Build a series of **interactive dashboards** and **report pages** to visualize churn metrics
+- Segment customer groups to uncover trends in churn by demographics, service usage, and contract types
 
-The project involves:
+## 📈 Result
 
-- Creating **measures** and **calculated columns** using DAX  
-- Building interactive and **eye-catching report pages**  
-- Delivering **insights** that support business decision-making
+- Delivered a professional Power BI report that identifies:
+  - Key drivers of churn (e.g., contract type, customer tenure, payment method)
+  - High-risk customer segments
+  - Visual summaries of churn trends across multiple variables
+
+- Empowered stakeholders with actionable insights to:
+  - Improve customer retention strategies
+  - Prioritize outreach to at-risk segments
+  - Monitor churn rate in real-time
 
 ## 🛠 Tools & Technologies
 
@@ -27,32 +33,24 @@ The project involves:
 - Data Modeling  
 - Visualization Design
 
-## 🧠 Key Insights
-
-The analysis helps stakeholders:
-
-- Understand churn trends across different demographics and service types  
-- Identify high-risk customer groups  
-- Design targeted retention strategies to reduce churn  
-
 ## 📁 Dataset
 
-The dataset used in this case study is a synthetic telecom dataset created for educational purposes by Databel. It includes:
+The dataset is a synthetic telecom dataset by **Databel**, used for educational and demonstration purposes. It includes:
 
-- Customer demographic info  
+- Customer demographics  
 - Subscription details  
-- Service usage metrics  
-- Churn status
+- Usage metrics  
+- Churn indicators
 
 ## 📎 How to Use
 
 1. Download and open the `.pbix` file in Power BI Desktop  
-2. Explore the report pages and filters  
-3. Review DAX formulas for measures and calculated columns  
-4. Customize visuals as needed to explore further questions
+2. Explore report pages and filters  
+3. Review DAX measures and calculations  
+4. Customize visuals or logic to fit new business scenarios
 
 ---
 
-**Author**: _Your Name_  
-**LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-**Email**: your.email@example.com
+**Author**: Gael Mukendi Kabongo  
+**LinkedIn**: [My LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gael-mukendi-kabongo/))  
+**Email**: gmka98@gmail.com
