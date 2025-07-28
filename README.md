@@ -1,5 +1,5 @@
 # 📊 Power BI Case Study – Customer Churn Analysis
-
+![churn dashboard](chrun_dashboard.jpg)
 ## 🧠 Context
 
 Subscription-based businesses like telecom companies rely on customer retention for long-term profitability. High churn rates directly impact revenue and growth potential. Understanding **why** customers are churning is more valuable than just knowing **how many** are leaving. Databel, a fictional telecom company, needs clear insights into its customer churn patterns to take effective action.
